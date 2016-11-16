@@ -4,8 +4,8 @@ import './style.scss';
 
 const App = (props) => (
   <main className="viewport">
-    <Toolbar />
     {props.children}
+    <Toolbar />
   </main>
 );
 

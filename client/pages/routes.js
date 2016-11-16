@@ -28,12 +28,12 @@ export default {
       }
     },
     {
-      path: 'about',
+      path: '/:id',
       getComponent(location, cb) {
-        System.import('pages/About')
+        System.import('pages/BeerDetail')
           .then(loadRoute(cb))
           .catch(errorLoading);
       }
-    },
+    }
   ]
 };
