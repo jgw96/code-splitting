@@ -1,7 +1,6 @@
 {
   "name": "BeerFriend",
   "short_name": "BeerFriend",
-  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#113d92",
   "theme_color": "#113d92",
