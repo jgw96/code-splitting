@@ -1,0 +1,14 @@
+{
+  "name": "BeerFriend",
+  "short_name": "BeerFriend",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#113d92",
+  "theme_color": "#113d92",
+  "description": "A simple beer app to research beers and find bars near you!",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
